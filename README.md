@@ -13,3 +13,6 @@ qu[e cosa falta
 eliminar el archivo que est[a en la vsi
 entender c[omo se restaura esta vaina en un nuevo postgreSQL
 lograr apagar y prender la vsi de forma automatica la verdad que se ara;an pero ni yo pagaria eso as[i que los entiendo
+
+Notas
+Crear el script desde un bloc de notas y guardarlo como un archivo .bat
