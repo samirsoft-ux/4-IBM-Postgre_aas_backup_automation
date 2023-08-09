@@ -11,8 +11,11 @@ Luego para que se ejecute este script simplemente configuras a trav[es del task 
 
 qu[e cosa falta
 eliminar el archivo que est[a en la vsi
-entender c[omo se restaura esta vaina en un nuevo postgreSQL
+entender c[omo se restaura esta vaina en un nuevo postgreSQL (https://www.youtube.com/watch?v=sP6Ejpqahg8)(https://www.youtube.com/watch?v=BPldcIe2-uE)
 lograr apagar y prender la vsi de forma automatica la verdad que se ara;an pero ni yo pagaria eso as[i que los entiendo
 
 Notas
 Crear el script desde un bloc de notas y guardarlo como un archivo .bat
+
+Importante
+Para efe se debe cambiar el nombre del bucket(recuerda es el nombre del bucket no del cos) y la apikey con que se va a loguear
